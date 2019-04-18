@@ -1,0 +1,9 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Spiderman",
+      "email": "peterparker@gmail.com"
+    }
+  ]
+}
